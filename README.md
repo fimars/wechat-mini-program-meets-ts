@@ -6,7 +6,7 @@
 
 ## Usage
 
-建议直接**点击右上角`[Download Zip](https://github.com/fimars/wechat-mini-program-meets-ts/archive/master.zip)`**, 下载本项目当作模板，暂时没有使用模板CLI工具的打算。
+建议直接**点击右上角[Download Zip](https://github.com/fimars/wechat-mini-program-meets-ts/archive/master.zip)**, 下载本项目当作模板，暂时没有使用模板CLI工具的打算。
 
 **建议使用[Visual Stuido Code](https://code.visualstudio.com/)进行开发**
 
