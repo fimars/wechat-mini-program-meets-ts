@@ -1,4 +1,4 @@
-# WeChatApp TypeScript Guide
+# Wechat Mini Program Meets TypeScript
 
 让TS用户更舒适得开发小程序应用。 🤗
 
