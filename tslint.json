@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "object-literal-sort-keys": false,
+    "no-console": false,
+    "member-access": false,
+    "interface-name": false
+  }
+}
